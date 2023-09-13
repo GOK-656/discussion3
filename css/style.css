@@ -1,0 +1,55 @@
+h1 {
+    /* New font size
+    Change font family
+    Align it to the center
+    */
+    font-size: xx-large;
+    font-family: Courier, 'Courier New', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: #afb0f5;
+}
+
+h2 {
+    /* New font size
+    Change font family
+    Change color
+    */
+    font-size: x-large;
+    font-family: Courier, 'Courier New', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #470689;
+}
+
+h3 {
+    /* New font size
+    Change font family
+    Change color
+    */
+    font-size: large;
+    font-family: Courier, 'Courier New', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #470689;
+}
+
+p {
+    /* Change line height.  Use Inspect Element to fine tune the value. */
+    line-height: 1.5;
+}
+
+img {
+    border: solid;
+    border-color: black;
+    border-width: 5px;
+    padding: 10px;
+    margin: 20px;
+    border-top-right-radius: 30px;
+}
+
+li {
+    /* Use an inline-block display
+    Add a left-margin of 50px;
+    */
+    display: inline-block;
+    margin-left: 50px;
+}
